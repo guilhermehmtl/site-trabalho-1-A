@@ -1,0 +1,45 @@
+.centralizar{
+  text-align: center;
+}
+p.outset{
+  border-style: outset;
+}
+p {
+  font-size: 25px;
+  line-height: 50px;
+}
+.city {
+  background-color: rgb(240, 243, 245);
+  color: rgb(8, 6, 6);
+  border: 7px solid rgb(59, 35, 35);
+  margin: 10px;
+  padding: 10px;
+}
+.form {
+  font-size: 25px;
+  line-height: 50px;
+}
+.h2 {
+  color: rgb(3, 2, 2);
+          margin-left: 40px;
+}
+.ul {
+font-size: 25px;
+line-height: 50px;
+}
+.centralizar{
+text-align: center;
+}
+p.outset{
+border-style: outset;
+}
+.input{
+font-size: 350px;
+line-height: 600px;
+}
+.table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  line-height: 30px;
+  font-size: 30px;
+}
